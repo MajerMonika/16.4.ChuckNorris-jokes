@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  font-family: arial;
+  background-color: #eee;
+}
+
+#get-joke {
+  margin: 20vh;
+  padding: 25px 50px;
+  border: solid white 2px;
+  background-color: cadetblue;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.4s;
+
+}
+
+#get-joke:hover {
+  background-color: #bbb;
+}
+
+p {
+  margin: 5vw;
+  padding: 25px 10px;
+  border: 2px solid #ddd;
+  background-color: #bbb;
+  font-size: 24px;
+  color: white;
+}
